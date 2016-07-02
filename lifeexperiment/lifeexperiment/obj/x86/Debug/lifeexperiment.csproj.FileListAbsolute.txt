@@ -1,0 +1,9 @@
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\bin\Debug\lifeexperiment.exe
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\bin\Debug\lifeexperiment.pdb
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\bin\Debug\BrainNet.NeuralFramework.dll
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\obj\x86\Debug\lifeexperiment.csprojResolveAssemblyReference.cache
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\obj\x86\Debug\lifeexperiment.Form1.resources
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\obj\x86\Debug\lifeexperiment.Properties.Resources.resources
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\obj\x86\Debug\lifeexperiment.csproj.GenerateResource.Cache
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\obj\x86\Debug\lifeexperiment.exe
+C:\Users\iman\Documents\Visual Studio 2010\Projects\lifeexperiment\lifeexperiment\obj\x86\Debug\lifeexperiment.pdb

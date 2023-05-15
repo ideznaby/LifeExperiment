@@ -6,4 +6,3 @@ Creatures have a satisfaction method which calculates the satisfaction of the cr
 The only thing that the creatures know is that they want to increase their satisfaction.
 This project had a lot of interesting results for example it showed that the environment is more important than IQ (at least in this model) because also high IQ creatures usually last longer than others but the ones that been in a good environment with high amount of food or a lot of contentions tend to last the longest.
 This project is written in C# and I used BrainNet Library for creating it.
-<a href="http://geekbrothers.org/">http://geekbrothers.org/</a>
